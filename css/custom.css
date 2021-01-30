@@ -180,6 +180,7 @@ button.btn:focus {
     box-shadow: none !important;
     outline: 0 !important;
 }
+
 .top_search_input {
     height: calc(3.5em + .75rem + 2px);
     border-radius: 0px;
@@ -321,6 +322,14 @@ p.animation_device_text {
     right: 10px;
 }
 
+.mobile_show_img_first_title {
+    color: #fff;
+}
+
+.mobile_show_img_second_title {
+    color: #0071eb;
+}
+
 .section_animation_device {
     background-color: black;
     border-bottom: 10px solid #222222;
@@ -451,6 +460,7 @@ p.animation_device_text {
     .logo_img>h2 {
         font-size: 1.5rem;
     }
+
     .header_content {
         padding: 1rem 0rem;
     }
@@ -518,12 +528,14 @@ p.animation_device_text {
     }
 
     .accordion_head {
-     font-size: 18px;
+        font-size: 18px;
     }
+
     .plusminus {
         font-size: 30px;
         line-height: 20px;
     }
+
     .accordion_body p {
         font-size: 16px;
     }
