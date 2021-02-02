@@ -400,6 +400,10 @@ p.animation_device_text {
 .top_search_input_field_des>p {
     font-size: 1.2rem;
     color: #fff;
+
+}
+p.accordion_des{
+    margin-bottom: 0;
 }
 
 .footer_section {
